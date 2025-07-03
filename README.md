@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tharushaaaaa777/THARUSHA-MD-DATABASE/refs/heads/main/logo/20250430_095846.jpg" width="500" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="" width="500" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
